@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework_3_1_1</string>
+    <string name="app_nameSecond">Mail Intent</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="subject">Subject</string>
+    <string name="text_here">Text here...</string>
+    <string name="send">send</string>
+    <string name="next">next</string>
+</resources>
